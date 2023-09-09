@@ -1,4 +1,4 @@
-🔴 ➖️ 👋 Hi, i am Michael!
+🔴 ➖️ 👋 Hi, my name is Michael!
 
 🟡 ➖️ 👀 I`m interesting in AI, python coding, video games and music
 
