@@ -7,3 +7,5 @@
 🔵 ➖️ 🦭 I`m looking to collaborate on AI Science
 
 🟣 ➖️ 📬 How to reach me: dartvauder007@protonmail.com
+
+![image](https://github.com/Dartvauder/Dartvauder/assets/140557322/35dfbe58-c374-4a57-bd83-c54baca8c963)
