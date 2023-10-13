@@ -13,4 +13,4 @@
 🟣 ➖️ 📬 How to reach me: dartvauder007@protonmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dartvauder&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dartvauder&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dartvauder&layout=compact&theme=dark)
