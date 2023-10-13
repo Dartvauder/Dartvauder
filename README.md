@@ -12,4 +12,4 @@
 
 🟣 ➖️ 📬 How to reach me: dartvauder007@protonmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Dartvauder=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dartvauder&show_icons=true&theme=dark)
