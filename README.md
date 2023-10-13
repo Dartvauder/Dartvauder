@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dartvauder&theme=dark&background=000000)](https://git.io/streak-stats)
-
 🔴 ➖️ 👋 Hi, my name is Michael!
 
 🟡 ➖️ 👀 I`m interesting in AI, python coding, video games and music
@@ -16,4 +14,6 @@
 
 ![image](https://github.com/Dartvauder/Dartvauder/assets/140557322/35dfbe58-c374-4a57-bd83-c54baca8c963)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDartvauder=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dartvauder)](https://github.com/anuraghazra/github-readme-stats)
