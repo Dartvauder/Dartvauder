@@ -10,5 +10,12 @@
 
 🔵 ➖️ 🦭 I`m looking to collaborate on AI Science
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dartvauder&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dartvauder&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dartvauder&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dartvauder&layout=compact&theme=dark">
+  <img src="https://streak-stats.demolab.com?user=Dartvauder&theme=dark">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dartvauder&style=for-the-badge&color=orange" alt=""/>
+</div>
